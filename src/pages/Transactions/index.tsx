@@ -1,10 +1,9 @@
 import { Header } from "../../components/Header";
-import { HeaderContainer } from "../../components/Header/styles";
 
 export function Transactions() {
   return (
-    <HeaderContainer>
+    <div>
       <Header />
-    </HeaderContainer>
+    </div>
   );
 }

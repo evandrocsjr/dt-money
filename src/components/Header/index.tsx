@@ -1,3 +1,14 @@
+import { HeaderContainer, HeaderContent, NewTransactionButton } from "./styles";
+
+import logoImg from "../../assets/ignite_simbol.svg";
+
 export function Header() {
-  return <div></div>;
+  return (
+    <HeaderContainer>
+      <HeaderContent>
+        <img src={logoImg} alt="" />
+        <NewTransactionButton>Nova transação</NewTransactionButton>
+      </HeaderContent>
+    </HeaderContainer>
+  );
 }
