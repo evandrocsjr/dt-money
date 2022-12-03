@@ -1,5 +1,5 @@
 {
-  "transactions" : [
+  "transactions": [
     {
       "id": 1,
       "description": "Desenvolvimento de site",
@@ -23,6 +23,62 @@
       "category": "Educação",
       "price": 1550,
       "createdAt": "2022-12-01T23:31:55.116Z"
+    },
+    {
+      "category": "DDDDDDDD",
+      "type": "INCOME",
+      "price": 0,
+      "description": "asdas",
+      "createdAt": "2022-12-02T22:53:49.145Z",
+      "id": 4
+    },
+    {
+      "category": "",
+      "type": "INCOME",
+      "price": 0,
+      "description": "",
+      "createdAt": "2022-12-02T22:53:56.748Z",
+      "id": 5
+    },
+    {
+      "category": "",
+      "type": "INCOME",
+      "price": 0,
+      "description": "",
+      "createdAt": "2022-12-02T22:57:51.340Z",
+      "id": 6
+    },
+    {
+      "category": "",
+      "type": "INCOME",
+      "price": 0,
+      "description": "aaa",
+      "createdAt": "2022-12-02T22:57:53.146Z",
+      "id": 7
+    },
+    {
+      "category": "DDDDDDDD",
+      "type": "INCOME",
+      "price": 0,
+      "description": "",
+      "createdAt": "2022-12-02T22:57:54.769Z",
+      "id": 8
+    },
+    {
+      "category": "",
+      "type": "INCOME",
+      "price": 0,
+      "description": "",
+      "createdAt": "2022-12-02T23:01:14.949Z",
+      "id": 9
+    },
+    {
+      "category": "",
+      "type": "INCOME",
+      "price": 0,
+      "description": "sd",
+      "createdAt": "2022-12-02T23:01:18.331Z",
+      "id": 10
     }
   ]
 }
