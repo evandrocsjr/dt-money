@@ -31,6 +31,14 @@
       "description": "~]kllç~l~k",
       "createdAt": "2022-12-03T17:55:17.652Z",
       "id": 4
+    },
+    {
+      "category": "aaaa",
+      "type": "income",
+      "price": 22,
+      "description": "asdas",
+      "createdAt": "2022-12-03T20:22:14.786Z",
+      "id": 5
     }
   ]
 }

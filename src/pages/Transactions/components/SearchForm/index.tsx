@@ -31,8 +31,6 @@ export function SearchForm() {
 
   async function handleSearchTransactions(data: SearchFormInputs) {
     await fetchTransactions(data.query);
-    // await new Promise((resolve) => setTimeout(resolve, 2000));
-    // console.log(data);
   }
 
   return (
